@@ -1,0 +1,1 @@
+name=input("Hello! + what is your name? + what is your age? + what is your location? + Hello {name},you are {age} years old and live in{location}.'.format(name,age,location)")
